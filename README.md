@@ -11,5 +11,3 @@ I’m interested in the bits of the world where law meets technology.
 <!-- **GitHub stats**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hueyy&langs_count=6&layout=compact&hide=c,c%2B%2B,html,vim%20script) -->
-
-<a href="https://kopiti.am/@huey" rel="me" style="display:none;"></a>
